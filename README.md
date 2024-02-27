@@ -1,5 +1,5 @@
 # OBSIDIAN JAVA SUMMARY
-Summary was created with JetBrains Academy.
+Summary was created in Obsidian while using JetBrains Academy and learning for university.
 
 ## Basic
 
